@@ -1,4 +1,4 @@
-// Copyright 2022 wm8
+// Copyright 2022 vlados2003
 
 #ifndef LAB5_STACK_H
 #define LAB5_STACK_H

@@ -1,4 +1,4 @@
-// Copyright 2021 Your Name <your_email>
+// Copyright 2021 vlados2003
 
 #include <stdexcept>
 #include <tests.hpp>
