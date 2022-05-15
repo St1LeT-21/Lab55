@@ -1,4 +1,3 @@
-// Copyright 2021 vlados2003
 
 #include <stdexcept>
 #include <tests.hpp>

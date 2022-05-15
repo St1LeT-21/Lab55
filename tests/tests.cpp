@@ -1,4 +1,3 @@
-// Copyright 2022 vlados2003
 
 #include <gtest/gtest.h>
 #include "Stack.h"
