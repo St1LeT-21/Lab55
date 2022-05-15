@@ -1,3 +1,4 @@
+// Copyright 2022 Your Name <your_email>
 
 #ifndef LAB5_TESTSTRUCT_H
 #define LAB5_TESTSTRUCT_H
